@@ -137,4 +137,4 @@ SQL> SELECT * FROM CANCELLATION;
         24 12-04-2022              38 7856409818                                
         25 19-03-2022              36 9878751230                                
 
-SQL> SPOOL OFF;
+SQL> 

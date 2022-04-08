@@ -216,4 +216,4 @@ NAME             TICKET_NO
 --------------- ----------                                                      
 RIYA                   113                                                      
 
-SQL> spool off;
+
